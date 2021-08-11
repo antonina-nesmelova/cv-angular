@@ -1,0 +1,35 @@
+{
+  "aboutMe": "O mně",
+  "studying": "Studium",
+  "workExperience": "Pracovní zkušenosti",
+  "languages": "Jazyky",
+  "hobby": "Hobby",
+
+  "tonya": "Toňa",
+  "youngAndEnthusiasticFullStackWebDeveloper": "Mladá a nadšená full-stack web developerka",
+
+  "aboutMeText": "Jsem vývojářka webových aplikací. Umím plánovat práci, návrhovat a programovat software. Pracuji v oblastí vývoje webů 2,5 roky. Na začátku jsem pracovala v jazyce PHP s frameworkem Nette. Potom jsem přešla na modernější technologie na bázi JavaScriptu a Node.js. Taky se vyznám v návrhu UI, databází a REST API, vytvoření úkolů podle zadání a odhadu náročnosti.",
+  "motivationText": "<p class=\"pt-0\">Tento web jsem udělala abych se vám představila a přihlásila se k nabídce práce frontend developera v LOGEXu. Tady se můžete podívát na kód této stránky: <a href=\"https://github.com/xnesme00/cv-logex\">github.com/xnesme00/cv-logex</a></p><p>Upřímne bych ráda přispěla zlepšení kvality mediciny cestou programování.</p>",
+
+  "letsMeet": "Pojďme se seznámit",
+  "next": "Dále",
+  "back": "Zpět",
+
+  "studyingText": "Úspěšné ukončení bakalářského studia na <b>Fakultě informačních technologií Vysokého učení technického v Brně</b>",
+
+  "TFWorkDescription": "<p>Technologie: JavaScript, TypeScript, Node.js, Vue.js, React, SQL, TypeORM.</p><p>Náplní moji práce byli návrh a implementace UI a REST API.</p><p>Projekty:<ul><li>frontent systému pro správu nastaveni softwarových produktů, provedeni plateb a komunikaci s podporou,</li><li>frontent a backend interního systému pro řízení firmy,</li><li>frontent a backend systému pro dopravní podnik (prodej jízdenek a zboží, zpracování žádostí o čipové karty atd.).</li></ul><p>Interní zkouška z knihy \"Čistý kód\".</p>",
+  "IWWorkDescription": "<p>Vývoji CRM systému pro získávání požadavků zákazníka na web v jazycích PHP 7 (framework Nette), SQL a JavaScript (framework jQuery). Daný CRM systém byl zároveň praktickou části moje bakalářské práce.</p>",
+
+  "russian": "Ruský",
+  "czech": "Český",
+  "english": "Anglický",
+  "slovak": "Slovenský",
+
+  "hobbyText": "Jinak ráda tančím lindy hop a jiný swing &#128131;&#127996;",
+
+  "contact": "Kontakt",
+  "mobile": "Mobil:",
+  "email": "E-mail:",
+  "imLookingForwardToYourReply": "Těším se na vaší odpověď \uD83D\uDE42"
+
+}

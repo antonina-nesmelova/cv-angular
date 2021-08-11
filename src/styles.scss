@@ -1,0 +1,28 @@
+@import 'theme';
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+
+.dark-mode {
+  background-color: #000;
+}
+
+h2,
+p {
+  padding: 16px;
+}
+
+.mr-8 {
+  margin-right: 8px;
+}
+
+.dark-mode a {
+  color: #ff4081;
+}

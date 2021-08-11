@@ -1,0 +1,34 @@
+{
+  "aboutMe": "About me",
+  "studying": "Studying",
+  "workExperience": "Work experience",
+  "languages": "Languages",
+  "hobby": "Hobby",
+
+  "tonya": "Tonya",
+  "youngAndEnthusiasticFullStackWebDeveloper": "Young and enthusiastic full-stack web developer",
+
+  "aboutMeText": "I'm developer of web applications. I'm able to plan work, design and program software. I work within the area of development 2,5 years. At first I worked in PHP with the Nette framework. Then I switched to more modern technologies based on JavaScript and Node.js. I am also familiar with UI design, databases and REST API, creating tasks according to assignment and estimation of complexity.",
+  "motivationText": "<p class=\"pt-0\">I made the website to introduce myself to you and sign up for a frontend developer job offer in your company. Here is the code of that page: <a href=\"https://github.com/xnesme00/cv-logex\">github.com/xnesme00/cv-logex</a></p><p>I would sincerely like to contribute to improving the quality of medicine through programming.</p>",
+
+  "letsMeet": "Let's meet",
+  "next": "Next",
+  "back": "Back",
+
+  "studyingText": " Successfully completed bachelor degree on <b>Faculty of Information Technology at Brno University of Technology</b>",
+
+  "TFWorkDescription": "<p>Technologies: JavaScript, TypeScript, Node.js, Vue.js, React, SQL, TypeORM.</p><p>The scope of my work was design and implementation of UI and REST API.</p><p>Projects: <ul><li>frontent of application for managing software product settings, making payments and communicating with support,</li><li>frontent and backend of the internal company management system,</li><li>frontent and backend of application for transport company (tickets and goods sale, processing of applications for chip cards, etc.).</li></ul><p>Internal exam from the book \"Clean Code\".</p>",
+  "IWWorkDescription": "<p>Development of a CRM system for obtaining customer requirements for a web in PHP 7 language (Nette framework), SQL and JavaScript (jQuery framework). The CRM system was also a practical part of my bachelor's thesis.</p>",
+
+  "russian": "Russian",
+  "czech": "Czech",
+  "english": "English",
+  "slovak": "Slovak",
+
+  "hobbyText": "Otherwise I like to dance lindy hop and another swing &#128131;&#127996;",
+
+  "contact": "Contact",
+  "mobile": "Phone:",
+  "email": "E-mail:",
+  "imLookingForwardToYourReply": "I look forward to your reply \uD83D\uDE42"
+}

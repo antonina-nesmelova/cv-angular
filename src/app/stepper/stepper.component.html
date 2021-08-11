@@ -1,0 +1,186 @@
+<mat-stepper
+	*transloco="let t"
+	[orientation]="(stepperOrientation | async)!"
+	#stepper
+>
+	<ng-template matStepperIcon="edit">
+		<mat-icon>done</mat-icon>
+	</ng-template>
+	<mat-step>
+		<h1 class="mt-3">{{ t('tonya') }}</h1>
+		<h3>{{ t('youngAndEnthusiasticFullStackWebDeveloper') }}</h3>
+		<button mat-raised-button color="primary" matStepperNext>
+			{{ t('letsMeet') }}
+		</button>
+	</mat-step>
+	<mat-step [label]="t('aboutMe')">
+		<div class="text-container">
+			{{ t('aboutMeText') }}
+			<hr class="my-3" />
+			<span [innerHTML]="t('motivationText')"></span>
+			<div class="d-block mx-auto mt-3">
+				<button mat-raised-button matStepperPrevious>
+					{{ t('back') }}
+				</button>
+				<button
+					mat-raised-button
+					color="primary"
+					class="ms-3"
+					matStepperNext
+				>
+					{{ t('next') }}
+				</button>
+			</div>
+		</div>
+	</mat-step>
+	<mat-step [label]="t('workExperience')">
+		<div class="text-container">
+			<div class="float-start"><b>Techfides, s.r.o.</b></div>
+			<div class="float-end">11.2019 - 05.2021</div>
+			<div class="clearfix"></div>
+			<div
+				class="work-description"
+				[innerHTML]="t('TFWorkDescription')"
+			></div>
+			<hr />
+			<div class="float-start"><b>Intelligent Webs, s.r.o.</b></div>
+			<div class="float-end">09.2018 - 10.2019</div>
+			<div class="clearfix"></div>
+			<div
+				class="work-description"
+				[innerHTML]="t('IWWorkDescription')"
+			></div>
+			<div class="d-block mx-auto mt-3">
+				<button mat-raised-button matStepperPrevious>
+					{{ t('back') }}
+				</button>
+				<button
+					mat-raised-button
+					color="primary"
+					class="ms-3"
+					matStepperNext
+				>
+					{{ t('next') }}
+				</button>
+			</div>
+		</div>
+	</mat-step>
+  <mat-step [label]="t('studying')">
+    <h2 class="mb-0" [innerHTML]="t('studyingText')"></h2>
+    <h4 class="mb-0">2015 - 2019</h4>
+    <div class="d-block mx-auto mt-3">
+      <button mat-raised-button matStepperPrevious>
+        {{ t('back') }}
+      </button>
+      <button
+        mat-raised-button
+        color="primary"
+        class="ms-3"
+        matStepperNext
+      >
+        {{ t('next') }}
+      </button>
+    </div>
+  </mat-step>
+  <mat-step [label]="t('languages')">
+		<table class="languages-table mx-auto mt-3">
+			<tr>
+				<td align="left" class="pe-3">
+					<h2>{{ t('russian') }}</h2>
+				</td>
+				<td align="right">
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+				</td>
+			</tr>
+			<tr>
+				<td align="left">
+					<h2>{{ t('czech') }}</h2>
+				</td>
+				<td align="right">
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+				</td>
+			</tr>
+			<tr>
+				<td align="left">
+					<h2>{{ t('english') }}</h2>
+				</td>
+				<td align="right">
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+				</td>
+			</tr>
+			<tr>
+				<td align="left">
+					<h2>{{ t('slovak') }}</h2>
+				</td>
+				<td align="right">
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+					<mat-icon color="accent">star</mat-icon>
+				</td>
+			</tr>
+		</table>
+		<div class="d-block mx-auto mt-3">
+			<button mat-raised-button matStepperPrevious>
+				{{ t('back') }}
+			</button>
+			<button
+				mat-raised-button
+				color="primary"
+				class="ms-3"
+				matStepperNext
+			>
+				{{ t('next') }}
+			</button>
+		</div>
+	</mat-step>
+	<mat-step [label]="t('hobby')">
+		<h2 class="mb-0" [innerHTML]="t('hobbyText')"></h2>
+		<div class="d-block mx-auto">
+			<button mat-raised-button matStepperPrevious>
+				{{ t('back') }}
+			</button>
+			<button
+				mat-raised-button
+				color="primary"
+				class="ms-3"
+				matStepperNext
+			>
+				{{ t('next') }}
+			</button>
+		</div>
+	</mat-step>
+	<mat-step [label]="t('contact')">
+		<div class="text-container">
+			<div class="contact-container">
+				<span class="float-start">{{ t('mobile') }}</span>
+				<span class="float-end">+420 735 939 616</span>
+				<span class="clearfix"></span>
+			</div>
+			<div class="contact-container">
+				<span class="float-start">{{ t('email') }}</span>
+				<a href="mailto:antonina.nesmelova@gmail.com" class="float-end">
+					antonina.nesmelova@gmail.com
+				</a>
+				<span class="clearfix"></span>
+			</div>
+			<hr />
+			<h2
+				class="mb-0 pt-0"
+				[innerHTML]="t('imLookingForwardToYourReply')"
+			></h2>
+		</div>
+		<button mat-raised-button matStepperPrevious>{{ t('back') }}</button>
+	</mat-step>
+</mat-stepper>
