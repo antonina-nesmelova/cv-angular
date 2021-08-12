@@ -1,0 +1,15 @@
+runtime: nodejs14
+
+instance_class: F2
+
+handlers:
+  - url: /
+    static_files: dist/CV/index.html
+    upload: dist/CV/index.html
+
+  - url: /
+    static_dir: dist/CV/
+
+  - url: /favicon\.ico
+    static_files: dist/CV/favicon.ico
+    upload: favicon\.ico
