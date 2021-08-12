@@ -8,7 +8,7 @@
   "tonya": "Toňa",
   "youngAndEnthusiasticFullStackWebDeveloper": "Mladá a nadšená full-stack web developerka",
 
-  "aboutMeText": "Jsem vývojářka webových aplikací. Umím plánovat práci, návrhovat a programovat software. Pracuji v oblastí vývoje webů 2,5 roky. Na začátku jsem pracovala v jazyce PHP s frameworkem Nette. Potom jsem přešla na modernější technologie na bázi JavaScriptu a Node.js. Taky se vyznám v návrhu UI, databází a REST API, vytvoření úkolů podle zadání a odhadu náročnosti.",
+  "aboutMeText": "Jsem vývojářka webových aplikací. Umím plánovat práci, návrhovat a programovat software. Pracuji v oblastí vývoje webů 2,5 roky. Na začátku jsem pracovala v jazyce <b>PHP</b> s frameworkem <b>Nette</b>. Potom jsem přešla na modernější technologie na bázi <b>JavaScriptu</b> a <b>Node.js</b>. Taky se vyznám v <b>návrhu UI</b>, <b>databází</b> a <b>REST API</b>, vytvoření úkolů podle zadání a odhadu náročnosti.",
   "motivationText": "<p class=\"pt-0\">Tento web jsem udělala abych se vám představila a přihlásila se k nabídce práce frontend developera v LOGEXu. Tady se můžete podívát na kód této stránky: <a href=\"https://github.com/xnesme00/cv-logex\">github.com/xnesme00/cv-logex</a></p><p>Upřímne bych ráda přispěla zlepšení kvality mediciny cestou programování.</p>",
 
   "letsMeet": "Pojďme se seznámit",

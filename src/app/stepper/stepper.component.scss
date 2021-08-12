@@ -11,7 +11,7 @@
   padding-right: 0;
   padding-bottom: 0;
   padding-left: 0;
-  margin-bottom: 0!important;
+  margin-bottom: 0 !important;
 }
 
 mat-stepper {
@@ -36,7 +36,7 @@ mat-stepper {
 }
 
 ::ng-deep .mat-horizontal-stepper-header-container {
-  max-width: 910px;
+  max-width: 1000px;
 }
 
 ::ng-deep .mat-horizontal-content-container {

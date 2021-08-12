@@ -15,7 +15,7 @@ export class StepperComponent implements OnInit {
 
 	ngOnInit(): void {
 		this.stepperOrientation = this.breakpointObserver
-			.observe("(min-width: 1090px)")
+			.observe("(min-width: 1200px)")
 			.pipe(map(({ matches }) => (matches ? "horizontal" : "vertical")));
 	}
 }

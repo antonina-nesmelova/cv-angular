@@ -8,7 +8,7 @@
   "tonya": "Tonya",
   "youngAndEnthusiasticFullStackWebDeveloper": "Young and enthusiastic full-stack web developer",
 
-  "aboutMeText": "I'm developer of web applications. I'm able to plan work, design and program software. I work within the area of development 2,5 years. At first I worked in PHP with the Nette framework. Then I switched to more modern technologies based on JavaScript and Node.js. I am also familiar with UI design, databases and REST API, creating tasks according to assignment and estimation of complexity.",
+  "aboutMeText": "I'm developer of web applications. I'm able to plan work, design and program software. I work within the area of development 2,5 years. At first I worked in <b>PHP</b> with the <b>Nette</b> framework. Then I switched to more modern technologies based on <b>JavaScript</b> and <b>Node.js</b>. I am also familiar with <b>UI design</b>, <b>databases</b> and <b>REST API</b>, creating tasks according to assignment and estimation of complexity.",
   "motivationText": "<p class=\"pt-0\">I made the website to introduce myself to you and sign up for a frontend developer job offer in your company. Here is the code of that page: <a href=\"https://github.com/xnesme00/cv-logex\">github.com/xnesme00/cv-logex</a></p><p>I would sincerely like to contribute to improving the quality of medicine through programming.</p>",
 
   "letsMeet": "Let's meet",

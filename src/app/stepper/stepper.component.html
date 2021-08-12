@@ -15,7 +15,7 @@
 	</mat-step>
 	<mat-step [label]="t('aboutMe')">
 		<div class="text-container">
-			{{ t('aboutMeText') }}
+			<span [innerHTML]="t('aboutMeText')"></span>
 			<hr class="my-3" />
 			<span [innerHTML]="t('motivationText')"></span>
 			<div class="d-block mx-auto mt-3">
@@ -65,24 +65,24 @@
 			</div>
 		</div>
 	</mat-step>
-  <mat-step [label]="t('studying')">
-    <h2 class="mb-0" [innerHTML]="t('studyingText')"></h2>
-    <h4 class="mb-0">2015 - 2019</h4>
-    <div class="d-block mx-auto mt-3">
-      <button mat-raised-button matStepperPrevious>
-        {{ t('back') }}
-      </button>
-      <button
-        mat-raised-button
-        color="primary"
-        class="ms-3"
-        matStepperNext
-      >
-        {{ t('next') }}
-      </button>
-    </div>
-  </mat-step>
-  <mat-step [label]="t('languages')">
+	<mat-step [label]="t('studying')">
+		<h2 class="mb-0" [innerHTML]="t('studyingText')"></h2>
+		<h4 class="mb-0">2015 - 2019</h4>
+		<div class="d-block mx-auto mt-3">
+			<button mat-raised-button matStepperPrevious>
+				{{ t('back') }}
+			</button>
+			<button
+				mat-raised-button
+				color="primary"
+				class="ms-3"
+				matStepperNext
+			>
+				{{ t('next') }}
+			</button>
+		</div>
+	</mat-step>
+	<mat-step [label]="t('languages')">
 		<table class="languages-table mx-auto mt-3">
 			<tr>
 				<td align="left" class="pe-3">
