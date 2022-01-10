@@ -1,34 +1,41 @@
 {
   "aboutMe": "About me",
-  "studying": "Studying",
+  "education": "Education",
   "workExperience": "Work experience",
   "languages": "Languages",
   "hobby": "Hobby",
 
-  "tonya": "Tonya",
+  "tonya": "Bc. Antonina Nesmelova",
   "youngAndEnthusiasticFullStackWebDeveloper": "Young and enthusiastic full-stack web developer",
 
-  "aboutMeText": "I'm developer of web applications. I'm able to plan work, design and program software. I work within the area of development 2,5 years. At first I worked in <b>PHP</b> with the <b>Nette</b> framework. Then I switched to more modern technologies based on <b>JavaScript</b> and <b>Node.js</b>. I am also familiar with <b>UI design</b>, <b>databases</b> and <b>REST API</b>, creating tasks according to assignment and estimation of complexity.",
-  "motivationText": "<p class=\"pt-0\">I made the website to introduce myself to you and sign up for a frontend developer job offer in your company. Here is the code of that page: <a href=\"https://github.com/xnesme00/cv-logex\">github.com/xnesme00/cv-logex</a></p><p>I would sincerely like to contribute to improving the quality of medicine through programming.</p>",
+  "aboutMeText": "<p>I have been working within the area of web development for over 3 years. I can solve non-trivial problems, plan work, design and program software.</p><p>My main skills are:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular, </li><li><b>Back-end</b>: TypeScript, TypeORM, SQL, </li><li><b>Automated testing</b>: Cypress, Express, </li><li><b>Design</b>: UI, REST API, database, </li><li><b>Blockchain</b>: Solidity, Remix, Web3, </li><li><b>Operating systems</b>: Windows, Linux, </li><li><b>Git</b> versioning system.</li></ul>",
+  "motivationText": "<p class=\"pt-0\">Code of this page: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
 
   "letsMeet": "Let's meet",
   "next": "Next",
   "back": "Back",
 
-  "studyingText": " Successfully completed bachelor degree on <b>Faculty of Information Technology at Brno University of Technology</b>",
+  "educationText": " Successfully completed bachelor degree on <b>Faculty of Information Technology at Brno University of Technology</b>",
 
-  "TFWorkDescription": "<p>Technologies: JavaScript, TypeScript, Node.js, Vue.js, React, SQL, TypeORM.</p><p>The scope of my work was design and implementation of UI and REST API.</p><p>Projects: <ul><li>frontent of application for managing software product settings, making payments and communicating with support,</li><li>frontent and backend of the internal company management system,</li><li>frontent and backend of application for transport company (tickets and goods sale, processing of applications for chip cards, etc.).</li></ul><p>Internal exam from the book \"Clean Code\".</p>",
-  "IWWorkDescription": "<p>Development of a CRM system for obtaining customer requirements for a web in PHP 7 language (Nette framework), SQL and JavaScript (jQuery framework). The CRM system was also a practical part of my bachelor's thesis.</p>",
+  "selfEmployed": "Self employed",
+  "untilNow": "until now",
+
+  "SelfEmployedDescription": "<p>I had a longer self-improvement vacation during which I devoted myself to personal development:</p><ul><li>I studied the development of smart contracts,</li><li>I tried Angular,</li><li>I worked as a tutor of informatics, mathematics and physics online,</li> <li>I wrote parser bot for a Telegram in Python,</li> <li>I traded with cryptocurrencies,</li><li>I developed my soft skills,</li><li>and, last but not least, I devoted myself to physical and mental regeneration.</li></ul>",
+  "TFWorkDescription": "<p>The scope of my work was design and implementation of UI, REST API and tests in JavaScript and TypeScript.</p><p>Projects: <ul><li>frontend of application for managing software product settings, making payments and communicating with support,</li><li>frontend and backend of the internal company management system,</li><li>frontend and backend of application for transport company (tickets and goods sale, processing of applications for chip cards, etc.).</li></ul><p>I also passed an exam from the book “Clean Code”, tried to create CSS animations and develop applications for Android with Flutter.</p>",
+  "IWWorkDescription": "<p>Work for startup. Development of a CRM system for obtaining customer requirements for a web in PHP 7 language (Nette framework), SQL and JavaScript (jQuery framework). The CRM system was also a practical part of my bachelor's thesis.</p>",
 
   "russian": "Russian",
   "czech": "Czech",
   "english": "English",
   "slovak": "Slovak",
 
-  "hobbyText": "Also, I like to dance lindy hop and other swing dances &#128131;&#127996;",
+  "hobbyText": "Also, I like to dance lindy hop &#128131;&#127996;",
 
   "contact": "Contact",
   "mobile": "Phone:",
   "email": "E-mail:",
+  "github": "GitHub:",
+  "linkedin": "LinkedIn:",
+  "downloadPdf": "Download PDF",
   "imLookingForwardToYourReply": "I look forward to your reply \uD83D\uDE42"
 }

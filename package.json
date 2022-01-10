@@ -1,12 +1,15 @@
 {
   "name": "cv",
   "version": "0.0.0",
+  "homepage": "http://antonina-nesmelova.github.io/cv-angular",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "lint-fix": "ng lint --fix && npx stylelint \"**/*.{css,scss}\" --fix"
+    "lint-fix": "ng lint --fix && npx stylelint \"**/*.{css,scss}\" --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "private": true,
   "dependencies": {
@@ -41,6 +44,7 @@
     "eslint": "^7.26.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
+    "gh-pages": "^3.2.3",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-idiomatic-order": "^8.1.0",

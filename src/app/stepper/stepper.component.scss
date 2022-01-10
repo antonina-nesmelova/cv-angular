@@ -23,7 +23,7 @@ mat-stepper {
 }
 
 .text-container {
-  max-width: 500px;
+  max-width: 700px;
   margin: 16px auto auto;
 
   hr {
@@ -32,6 +32,7 @@ mat-stepper {
 }
 
 ::ng-deep .mat-horizontal-stepper-content {
+  overflow: auto;
   width: 100%;
 }
 
@@ -46,11 +47,11 @@ mat-stepper {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  padding-bottom: 72px !important;
-  text-align: center;
+  padding-bottom: 0 !important;
 }
 
-.work-description {
+.work-description,
+#about-me {
   text-align: left;
 
   ::ng-deep ul {
