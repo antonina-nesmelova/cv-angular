@@ -9,7 +9,7 @@
     "watch": "ng build --watch --configuration development",
     "lint-fix": "ng lint --fix && npx stylelint \"**/*.{css,scss}\" --fix",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "ng deploy --base-href=/cv-angular/"
   },
   "private": true,
   "dependencies": {
@@ -41,10 +41,10 @@
     "@types/node": "^12.11.1",
     "@typescript-eslint/eslint-plugin": "4.28.2",
     "@typescript-eslint/parser": "4.28.2",
+    "angular-cli-ghpages": "^1.0.0",
     "eslint": "^7.26.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.0",
-    "gh-pages": "^3.2.3",
     "prettier": "^2.3.2",
     "stylelint": "^13.13.1",
     "stylelint-config-idiomatic-order": "^8.1.0",
