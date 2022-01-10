@@ -1,0 +1,40 @@
+{
+  "aboutMe": "O mně",
+  "education": "Vzdělání",
+  "workExperience": "Pracovní zkušenosti",
+  "languages": "Jazyky",
+  "hobby": "Hobby",
+
+  "tonya": "Bc. Antonina Nesmelova",
+  "youngAndEnthusiasticFullStackWebDeveloper": "Mladá a nadšená full-stack web developerka",
+
+  "aboutMeText": "<p>Pracuji v oblastí vývoje webů přes 3 roky. Umím řešit netriviální problémy, plánovat práci, návrhovat a programovat software.</p><p>Moje hlavní dovednosti jsou:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular,</li><li><b>Back-end</b>: TypeScript, TypeORM, SQL,</li><li><b>Automatické testování</b>: Cypress, Express,</li><li><b>Návrh</b>: UI, REST API, databáze,</li><li><b>Blockchain</b>: Solidity, Remix, Web3,</li><li><b>Operační systémy</b>: Windows, Linux,</li><li>Verzovaci systém <b>Git</b>.</li></ul>",
+  "motivationText": "<p class=\"pt-0\">Kód této stránky: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
+
+  "letsMeet": "Pojďme se seznámit",
+  "next": "Dále",
+  "back": "Zpět",
+
+  "educationText": "Úspěšné ukončení bakalářského studia na <b>Fakultě informačních technologií Vysokého učení technického v Brně</b>",
+
+  "selfEmployed": "Na volné noze",
+  "untilNow": "doteď",
+
+  "SelfEmployedDescription": "<p>Měla jsem delší prázdniny, během kterých věnovala jsem se osobnímu rozvoji:</p><ul><li>studovala jsem vývoj smart kontraktů,</li><li>zkusila jsem Angular,</li><li>pracovala jsem jako doučovatelka informatiky, matematiky a fyziky online,</li><li>napsala jsem parser bota pro Telegram v Pythonu,</li><li>obchodovala jsem s kryptoměnami,</li><li>rozvíjela jsem svoje jemné dovednosti,</li><li>a v neposlední řadě věnovala jsem se fyzické i psychické regeneraci.</li></ul>",
+  "TFWorkDescription": "<p>Náplní mé práce byli návrh a implementace UI, REST API a testů v JavaScriptu a TypeScriptu.</p><p>Projekty:<ul><li>front-end systému pro správu nastavení softwarových produktů, provedeni plateb a komunikaci s podporou,</li><li>front-end a back-end interního systému pro řízení firmy,</li><li>front-end a back-end systému pro dopravní podnik (prodej jízdenek a zboží, zpracování žádostí o čipové karty atd.).</li></ul><p>Taky jsem složila zkoušku z knihy „Čistý kód“, zkusila vytváření CSS animací a vývoj aplikací pro Android pomoci Flutteru.</p>",
+  "IWWorkDescription": "<p>Práce pro startup. Vývoji CRM systému pro získávání požadavků zákazníka na web v jazycích PHP 7 (framework Nette), SQL a JavaScript (framework jQuery). Daný CRM systém byl zároveň praktickou části moje bakalářské práce.</p>",
+
+  "russian": "Ruský",
+  "czech": "Český",
+  "english": "Anglický",
+  "slovak": "Slovenský",
+
+  "contact": "Kontakt",
+  "mobile": "Mobil:",
+  "email": "E-mail:",
+  "github": "GitHub:",
+  "linkedin": "LinkedIn:",
+  "downloadPdf": "Stáhnout PDF",
+  "imLookingForwardToYourReply": "Těším se na vaší odpověď \uD83D\uDE42"
+
+}
