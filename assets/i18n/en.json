@@ -8,8 +8,8 @@
   "tonya": "Bc. Antonina Nesmelova",
   "youngAndEnthusiasticFullStackWebDeveloper": "Young and enthusiastic full-stack web developer",
 
-  "aboutMeText": "<p>I have been working within the area of web development for over 3 years. I can solve non-trivial problems, plan work, design and program software.</p><p>My main skills are:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular, </li><li><b>Back-end</b>: TypeScript, TypeORM, SQL, </li><li><b>Automated testing</b>: Cypress, Express, </li><li><b>Design</b>: UI, REST API, database, </li><li><b>Blockchain</b>: Solidity, Remix, Web3, </li><li><b>Operating systems</b>: Windows, Linux, </li><li><b>Git</b> versioning system.</li></ul>",
-  "motivationText": "<p class=\"pt-0\">Code of this page: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
+  "aboutMeText": "<p>I have been working in the field of web development for over 3 years. I can solve non-trivial problems, plan work, design and program software.</p><p>My main skills are:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular, </li><li><b>Back-end</b>: TypeScript, TypeORM, SQL, </li><li><b>Automated testing</b>: Cypress, Jest, </li><li><b>Design</b>: UI, REST API, database, </li><li><b>Blockchain</b>: Solidity, Remix, Web3, </li><li><b>Operating systems</b>: Windows, Linux, </li><li><b>Git</b> versioning system.</li></ul>",
+  "motivationText": "<p class=\"pt-0\">This page code: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
 
   "letsMeet": "Let's meet",
   "next": "Next",
@@ -20,9 +20,9 @@
   "selfEmployed": "Self employed",
   "untilNow": "until now",
 
-  "SelfEmployedDescription": "<p>I had a longer self-improvement vacation during which I devoted myself to personal development:</p><ul><li>I studied the development of smart contracts,</li><li>I tried Angular,</li><li>I worked as a tutor of informatics, mathematics and physics online,</li> <li>I wrote parser bot for a Telegram in Python,</li> <li>I traded with cryptocurrencies,</li><li>I developed my soft skills,</li><li>and, last but not least, I devoted myself to physical and mental regeneration.</li></ul>",
-  "TFWorkDescription": "<p>The scope of my work was design and implementation of UI, REST API and tests in JavaScript and TypeScript.</p><p>Projects: <ul><li>frontend of application for managing software product settings, making payments and communicating with support,</li><li>frontend and backend of the internal company management system,</li><li>frontend and backend of application for transport company (tickets and goods sale, processing of applications for chip cards, etc.).</li></ul><p>I also passed an exam from the book “Clean Code”, tried to create CSS animations and develop applications for Android with Flutter.</p>",
-  "IWWorkDescription": "<p>Work for startup. Development of a CRM system for obtaining customer requirements for a web in PHP 7 language (Nette framework), SQL and JavaScript (jQuery framework). The CRM system was also a practical part of my bachelor's thesis.</p>",
+  "SelfEmployedDescription": "<p>I had a longer self-improvement vacation which was dedicated to personal development. It involved:</p><ul><li> studying smart contracts development,</li><li>practising with Angular,</li><li>working as a  mathematics, informatics,  and physics online tutor  ,</li> <li>creating a parser bot for Telegram in Python,</li> <li>trading cryptocurrencies,</li><li>developing soft skills,</li><li>restoring physical and mental health.</li></ul>",
+  "TFWorkDescription": "<p>The scope of my work was design and implementation of UI, REST API and tests in JavaScript and TypeScript.</p><p>Projects: <ul><li>frontend of application for managing software product settings, making payments and communicating with support,</li><li>frontend and backend of the internal company management system,</li><li>frontend and backend of application for transport company (tickets and goods sale, processing of applications for chip cards, etc.).</li></ul><p>Additional:<ul><li>created CSS animations,</li><li>developed application for Android with Flutter.</li><li>passed exam from the book “Clean Code”,</li></ul></p>",
+  "IWWorkDescription": "<p>The work at the startup included development of a CRM system for obtaining customer requirements for a web in PHP 7 language (Nette framework), SQL and JavaScript (jQuery framework). The CRM system was also a practical part of my bachelor's thesis.</p>",
 
   "russian": "Russian",
   "czech": "Czech",
