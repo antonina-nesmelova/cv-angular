@@ -8,7 +8,7 @@
   "tonya": "Bc. Antonina Nesmelova",
   "youngAndEnthusiasticFullStackWebDeveloper": "Young and enthusiastic full-stack web developer",
 
-  "aboutMeText": "<p>I have been working within the area of web development for over 3 years. I can solve non-trivial problems, plan work, design and program software.</p><p>My main skills are:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular, </li><li><b>Back-end</b>: TypeScript, TypeORM, SQL, </li><li><b>Automated testing</b>: Cypress, Jest, </li><li><b>Design</b>: UI, REST API, database, </li><li><b>Blockchain</b>: Solidity, Remix, Web3, </li><li><b>Operating systems</b>: Windows, Linux, </li><li><b>Git</b> versioning system.</li></ul>",
+  "aboutMeText": "<p>I have been working within the area of web development for over 3 years. I can solve non-trivial problems, plan work, design and program software.</p><p>My main skills are:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular, </li><li><b>Back-end</b>: Express, TypeScript, TypeORM, SQL, </li><li><b>Automated testing</b>: Cypress, Jest, </li><li><b>Design</b>: UI, REST API, database, </li><li><b>Blockchain</b>: Solidity, Remix, Web3, </li><li><b>Operating systems</b>: Windows, Linux, </li><li><b>Git</b> versioning system.</li></ul>",
   "motivationText": "<p class=\"pt-0\">Code of this page: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
 
   "letsMeet": "Let's meet",
