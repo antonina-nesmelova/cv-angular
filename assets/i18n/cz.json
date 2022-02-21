@@ -8,7 +8,7 @@
   "tonya": "Bc. Antonina Nesmelova",
   "youngAndEnthusiasticFullStackWebDeveloper": "Mladá a nadšená full-stack web developerka",
 
-  "aboutMeText": "<p>Pracuji v oblastí vývoje webů přes 3 roky. Umím řešit netriviální problémy, plánovat práci, návrhovat a programovat software.</p><p>Moje hlavní dovednosti jsou:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular,</li><li><b>Back-end</b>: TypeScript, TypeORM, SQL,</li><li><b>Automatické testování</b>: Cypress, Jest,</li><li><b>Návrh</b>: UI, REST API, databáze,</li><li><b>Blockchain</b>: Solidity, Remix, Web3,</li><li><b>Operační systémy</b>: Windows, Linux,</li><li>Verzovaci systém <b>Git</b>.</li></ul>",
+  "aboutMeText": "<p>Pracuji v oblastí vývoje webů přes 3 roky. Umím řešit netriviální problémy, plánovat práci, návrhovat a programovat software.</p><p>Moje hlavní dovednosti jsou:</p><ul><li><b>Front-end</b>: JavaScript, Vue.js, React, Angular,</li><li><b>Back-end</b>: Express, TypeScript, TypeORM, SQL,</li><li><b>Automatické testování</b>: Cypress, Jest,</li><li><b>Návrh</b>: UI, REST API, databáze,</li><li><b>Blockchain</b>: Solidity, Remix, Web3,</li><li><b>Operační systémy</b>: Windows, Linux,</li><li>Verzovaci systém <b>Git</b>.</li></ul>",
   "motivationText": "<p class=\"pt-0\">Kód této stránky: <a target=\"_blank\" href=\"https://github.com/antonina-nesmelova/cv-angular\">github.com/antonina-nesmelova/cv-angular</a></p>",
 
   "letsMeet": "Pojďme se seznámit",
