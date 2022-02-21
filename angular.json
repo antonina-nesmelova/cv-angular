@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "CV": {
+    "cv-angular": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/CV",
+            "outputPath": "dist/cv-angular",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -70,10 +70,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "CV:build:production"
+              "browserTarget": "cv-angular:build:production"
             },
             "development": {
-              "browserTarget": "CV:build:development"
+              "browserTarget": "cv-angular:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -81,7 +81,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "CV:build"
+            "browserTarget": "cv-angular:build"
           }
         },
         "test": {
@@ -117,7 +117,7 @@
       }
     }
   },
-  "defaultProject": "CV",
+  "defaultProject": "cv-angular",
   "cli": {
     "defaultCollection": "@angular-eslint/schematics"
   }
