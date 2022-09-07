@@ -35,6 +35,14 @@
 	</mat-step>
 	<mat-step [label]="t('workExperience')">
 		<div class="text-container">
+      <div class="float-start"><b>TopMonks s.r.o.</b></div>
+      <div class="float-end">02.2022 {{ t('untilNow') }}</div>
+      <div class="clearfix"></div>
+      <div
+        class="work-description"
+        [innerHTML]="t('TopMonksWorkDescription')"
+      ></div>
+      <hr />
 			<div class="float-start"><b>{{ t('selfEmployed') }}</b></div>
 			<div class="float-end">05.2021 - 02.2022</div>
 			<div class="clearfix"></div>

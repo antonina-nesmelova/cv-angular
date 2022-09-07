@@ -20,10 +20,10 @@
   "selfEmployed": "Na volné noze",
   "untilNow": "doteď",
 
-  "SelfEmployedDescription": "<p>Měla jsem delší prázdniny, během kterých věnovala jsem se osobnímu rozvoji:</p><ul><li>studovala jsem vývoj smart kontraktů,</li><li>zkusila jsem Angular,</li><li>pracovala jsem jako doučovatelka informatiky, matematiky a fyziky online,</li><li>napsala jsem parser bota pro Telegram v Pythonu,</li><li>obchodovala jsem s kryptoměnami,</li><li>rozvíjela jsem svoje jemné dovednosti,</li><li>a v neposlední řadě věnovala jsem se fyzické i psychické regeneraci.</li></ul>",
+  "SelfEmployedDescription": "<p>Měla jsem delší prázdniny, během kterých jsem se věnovala osobnímu rozvoji:</p><ul><li>studovala jsem vývoj smart kontraktů,</li><li>zkusila jsem Angular,</li><li>pracovala jsem jako doučovatelka informatiky, matematiky a fyziky online,</li><li>napsala jsem parser bota pro Telegram v Pythonu,</li><li>obchodovala jsem s kryptoměnami,</li><li>rozvíjela jsem svoje jemné dovednosti,</li><li>a v neposlední řadě věnovala jsem se fyzické i psychické regeneraci.</li></ul>",
   "TFWorkDescription": "<p>Náplní mé práce byli návrh a implementace UI, REST API a testů v JavaScriptu a TypeScriptu.</p><p>Projekty:<ul><li>front-end systému pro správu nastavení softwarových produktů, provedeni plateb a komunikaci s podporou,</li><li>front-end a back-end interního systému pro řízení firmy,</li><li>front-end a back-end systému pro dopravní podnik (prodej jízdenek a zboží, zpracování žádostí o čipové karty atd.).</li></ul><p>Taky jsem složila zkoušku z knihy „Čistý kód“, zkusila vytváření CSS animací a vývoj aplikací pro Android pomoci Flutteru.</p>",
   "IWWorkDescription": "<p>Práce pro startup. Vývoji CRM systému pro získávání požadavků zákazníka na web v jazycích PHP 7 (framework Nette), SQL a JavaScript (framework jQuery). Daný CRM systém byl zároveň praktickou části moje bakalářské práce.</p>",
-
+  "TopMonksWorkDescription": "",
   "russian": "Ruský",
   "czech": "Český",
   "english": "Anglický",
